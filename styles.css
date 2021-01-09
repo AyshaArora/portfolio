@@ -470,7 +470,7 @@ mark,
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #6610f2;
+  background-color: ;
   border: 1px solid #dee2e6;
   border-radius: 0.25rem;
   max-width: 100%;
@@ -1961,7 +1961,7 @@ pre code {
   font-weight: 400;
   line-height: 1.5;
   color: #495057;
-  background-color: #6610f2;
+  background-color: #6c757d;
   background-clip: padding-box;
   border: 1px solid #ced4da;
   border-radius: 0.25rem;
