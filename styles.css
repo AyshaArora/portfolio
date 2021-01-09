@@ -457,7 +457,7 @@ mark,
 .blockquote-footer {
   display: block;
   font-size: 80%;
-  color: #fff;
+  color: #6c757d;
 }
 .blockquote-footer::before {
   content: "— ";
