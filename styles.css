@@ -1,15 +1,4 @@
-@charset "UTF-8";
-/*!
-* Start Bootstrap - Agency v6.0.3 (https://startbootstrap.com/theme/agency)
-* Copyright 2013-2020 Start Bootstrap
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-agency/blob/master/LICENSE)
-*/
-/*!
- * Bootstrap v4.5.3 (https://getbootstrap.com/)
- * Copyright 2011-2020 The Bootstrap Authors
- * Copyright 2011-2020 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
- */
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -66,7 +55,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
+  background-color: #6610f2;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -481,7 +470,7 @@ mark,
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #fff;
+  background-color: #6610f2;
   border: 1px solid #dee2e6;
   border-radius: 0.25rem;
   max-width: 100%;
@@ -1972,7 +1961,7 @@ pre code {
   font-weight: 400;
   line-height: 1.5;
   color: #495057;
-  background-color: #fff;
+  background-color: #6610f2;
   background-clip: padding-box;
   border: 1px solid #ced4da;
   border-radius: 0.25rem;
