@@ -202,7 +202,7 @@ table {
 caption {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
-  color: #6c757d;
+  color: #fff;
   text-align: left;
   caption-side: bottom;
 }
@@ -457,7 +457,7 @@ mark,
 .blockquote-footer {
   display: block;
   font-size: 80%;
-  color: #6c757d;
+  color: #fff;
 }
 .blockquote-footer::before {
   content: "— ";
